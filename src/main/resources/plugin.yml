@@ -1,0 +1,9 @@
+name: JoinMess
+version: '1.0.0-OmxRealm'
+main: org.dw363.JoinMess
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Плагин отображающее кастомное сообщение о входе игрока только с правами, создано специально для сервера OmxRealm. Project The OMX
+website: https://github.com/Hacker123ter
+depend: [PlaceholderAPI]
